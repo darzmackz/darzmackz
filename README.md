@@ -32,13 +32,6 @@ When I'm not deep-diving into tech, you’ll probably find me:
 | 🛠️ **Security & Tools** | Penetration testing tools, scripting, troubleshooting |
 
 ---
-
-## 📫 Let's Connect
-
-- 💼 LinkedIn: *(add your link here)*  
-- 🌐 Portfolio: *(optional — add if you have one)*  
-- ✉️ Reach me here on GitHub!
-
 ---
 
 ⭐️ *“Hacking isn’t just about breaking in — it’s about understanding how things work.”*
