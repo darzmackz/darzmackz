@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Kent Harvey M. Plando
+# 👋 Hi there! I'm Kenji
 
 Welcome to my GitHub profile! I’m passionate about exploring technology, system administration, and cybersecurity.  
 I enjoy learning, experimenting, and building skills that help me better understand how systems work — and how to make them more secure.
